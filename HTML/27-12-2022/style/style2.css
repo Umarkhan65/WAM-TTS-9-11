@@ -1,0 +1,15 @@
+#header div
+{float: left;}
+
+ul{
+    list-style: none;
+}
+
+ul li
+{
+    display: inline;
+}
+
+#navigation{
+    text-align: center;
+}

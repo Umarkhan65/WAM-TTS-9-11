@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "My Font";
+  src: url("fonts/Sevillana-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Mera Font";
+  src: url("fonts/Inconsolata-VariableFont_wdth\,wght.ttf");
+}
+
+/* .heading1 {
+  background-color: orange;
+  font-family: "My Font";
+  text-align: center;
+}
+
+.heading2 {
+  background-color: orange;
+  font-family: "Mera Font";
+}
+
+p {
+  line-height: 1.5em;
+  color: red;
+  background-color: orange;
+} */
+
+/* .box {
+  background-color: aquamarine;
+  width: 200px;
+  height: 300px;
+  text-align: center;
+}
+
+img {
+  vertical-align: text-bottom;
+} */
+
+/* .para {
+    text-indent: 40px;
+} */
+
+.heading1 {
+  color: red;
+  font-family: "My Font";
+  text-shadow: 1px 1px 2px blue;
+}
+
+a:visited {
+  color: aqua;
+}
